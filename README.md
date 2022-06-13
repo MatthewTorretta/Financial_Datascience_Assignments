@@ -35,6 +35,6 @@ reporting the resulting model for 2 topics.
 
 (Image_Classification) Tasks:
 
-- Install and setup the object classification example from the lecture slides.
-- Using some street level images of people outside shops of your own choice
-run the classification tools on your images.
+- Install and setup object classification module from the TF object detection API to perform object detection.
+- Using some street level images of people outside shops of your own choice, run the classification tools on your images.
+
