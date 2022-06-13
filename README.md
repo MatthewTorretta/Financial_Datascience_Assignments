@@ -16,8 +16,7 @@ a 3D implied volatility surface.
 
 (DB_Creation_Querying) Tasks:
 
-- Read trade data for the first < 1, 000 + yourclassnumber × 100 > crypto
-Punks into a DB.
+- Read trade data for the first 100 Crypto Punks into a DB.
 - Report the punk with the highest price.
 - Report which punk was traded the most.
 - Plot the average price by day in the DB.
