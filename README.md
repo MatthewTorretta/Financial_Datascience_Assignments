@@ -38,3 +38,6 @@ reporting the resulting model for 2 topics.
 - Install and setup object classification module from the TF object detection API to perform object detection.
 - Using some street level images of people outside shops of your own choice, run the classification tools on your images.
 
+(Tensor Flow & Keras: Price Direction Prediction) Tasks:
+
+
