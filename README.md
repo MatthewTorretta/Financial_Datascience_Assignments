@@ -21,3 +21,20 @@ a 3D implied volatility surface.
 - Report which punk was traded the most.
 - Plot the average price by day in the DB.
 - Which owner has the most valuable portfolio of Crypto Punks?
+
+(Twitter_Topic_Modelling) Tasks:
+
+- Select an investment topic of your choice e.g. cryptocurrency, NFT’s,
+Value investing, Gold, Technology stocks etc.
+- Research a list of at least 10 twitter experts in your topic and list them
+in your report.
+- Using Tweepy/the Twitter API (or any twitter package of your choice)
+pull 200 tweets from each expert into a DB.
+- Create a Word Cloud and do topic modelling analysis on the tweets -
+reporting the resulting model for 2 topics.
+
+(Image_Classification) Tasks:
+
+- Install and setup the object classification example from the lecture slides.
+- Using some street level images of people outside shops of your own choice
+run the classification tools on your images.
